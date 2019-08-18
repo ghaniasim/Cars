@@ -1,0 +1,11 @@
+.list {
+    background: white;
+    border: 2px solid;
+}
+
+.listView {
+    border: 2px solid;
+    margin: 10px;
+    text-align: center;
+    background: rgb(125, 207, 240);
+}
